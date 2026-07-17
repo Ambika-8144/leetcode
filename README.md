@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ambika-8144/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Ambika-8144/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
