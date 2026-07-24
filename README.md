@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Ambika-8144/leetcode/tree/master/0175-combine-two-tables) |
+| [3554-find-category-recommendation-pairs](https://github.com/Ambika-8144/leetcode/tree/master/3554-find-category-recommendation-pairs) |
 ## Hash Table
 |  |
 | ------- |
