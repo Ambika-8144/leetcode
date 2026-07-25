@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ambika-8144/leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ambika-8144/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Ambika-8144/leetcode/tree/master/0234-palindrome-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ambika-8144/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ambika-8144/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Ambika-8144/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Ambika-8144/leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ambika-8144/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1331-rank-transform-of-an-array](https://github.com/Ambika-8144/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ambika-8144/leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ambika-8144/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Ambika-8144/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Ambika-8144/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
