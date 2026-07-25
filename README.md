@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Ambika-8144/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ambika-8144/leetcode/tree/master/0049-group-anagrams) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ambika-8144/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1260-shift-2d-grid](https://github.com/Ambika-8144/leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Ambika-8144/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ambika-8144/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -88,4 +89,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ambika-8144/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ambika-8144/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ambika-8144/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ambika-8144/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ambika-8144/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
