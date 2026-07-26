@@ -70,12 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ambika-8144/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Ambika-8144/leetcode/tree/master/0049-group-anagrams) |
 | [0171-excel-sheet-column-number](https://github.com/Ambika-8144/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0257-binary-tree-paths](https://github.com/Ambika-8144/leetcode/tree/master/0257-binary-tree-paths) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ambika-8144/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ambika-8144/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ambika-8144/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0257-binary-tree-paths](https://github.com/Ambika-8144/leetcode/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ambika-8144/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ambika-8144/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ambika-8144/leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -120,10 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ambika-8144/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ambika-8144/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ambika-8144/leetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Ambika-8144/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ambika-8144/leetcode/tree/master/0257-binary-tree-paths) |
 ## Linked List
 |  |
 | ------- |
