@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Ambika-8144/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Ambika-8144/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ambika-8144/leetcode/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Ambika-8144/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ambika-8144/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ambika-8144/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ambika-8144/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Ambika-8144/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ambika-8144/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Ambika-8144/leetcode/tree/master/0383-ransom-note) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Ambika-8144/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ambika-8144/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ambika-8144/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ambika-8144/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Ambika-8144/leetcode/tree/master/0029-divide-two-integers) |
 | [0342-power-of-four](https://github.com/Ambika-8144/leetcode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/Ambika-8144/leetcode/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Ambika-8144/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Stack
 |  |
 | ------- |
