@@ -96,11 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ambika-8144/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0257-binary-tree-paths](https://github.com/Ambika-8144/leetcode/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/Ambika-8144/leetcode/tree/master/0401-binary-watch) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ambika-8144/leetcode/tree/master/0029-divide-two-integers) |
 | [0342-power-of-four](https://github.com/Ambika-8144/leetcode/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/Ambika-8144/leetcode/tree/master/0401-binary-watch) |
 ## Stack
 |  |
 | ------- |
