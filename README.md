@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Ambika-8144/leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ambika-8144/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Ambika-8144/leetcode/tree/master/0415-add-strings) |
+| [0509-fibonacci-number](https://github.com/Ambika-8144/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ambika-8144/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ambika-8144/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ambika-8144/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -195,11 +196,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ambika-8144/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Ambika-8144/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ambika-8144/leetcode/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/Ambika-8144/leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ambika-8144/leetcode/tree/master/0022-generate-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/Ambika-8144/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0509-fibonacci-number](https://github.com/Ambika-8144/leetcode/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -230,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Ambika-8144/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Ambika-8144/leetcode/tree/master/0463-island-perimeter) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ambika-8144/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
