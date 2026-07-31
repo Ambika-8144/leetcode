@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Ambika-8144/leetcode/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/Ambika-8144/leetcode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Ambika-8144/leetcode/tree/master/0504-base-7) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Ambika-8144/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ambika-8144/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ambika-8144/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ambika-8144/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
