@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ambika-8144/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Ambika-8144/leetcode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Ambika-8144/leetcode/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/Ambika-8144/leetcode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Ambika-8144/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ambika-8144/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ambika-8144/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Ambika-8144/leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Ambika-8144/leetcode/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/Ambika-8144/leetcode/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/Ambika-8144/leetcode/tree/master/0504-base-7) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ambika-8144/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ambika-8144/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ambika-8144/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
