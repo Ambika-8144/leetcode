@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ambika-8144/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Ambika-8144/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Ambika-8144/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ambika-8144/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ambika-8144/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ambika-8144/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ambika-8144/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Ambika-8144/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0257-binary-tree-paths](https://github.com/Ambika-8144/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Ambika-8144/leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ambika-8144/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ambika-8144/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ambika-8144/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Ambika-8144/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0257-binary-tree-paths](https://github.com/Ambika-8144/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Ambika-8144/leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Ambika-8144/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ambika-8144/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/Ambika-8144/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Ambika-8144/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Ambika-8144/leetcode/tree/master/0463-island-perimeter) |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ambika-8144/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Ambika-8144/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ambika-8144/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Ambika-8144/leetcode/tree/master/0203-remove-linked-list-elements) |
