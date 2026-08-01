@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ambika-8144/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ambika-8144/leetcode/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/Ambika-8144/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/Ambika-8144/leetcode/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ambika-8144/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Ambika-8144/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0228-summary-ranges](https://github.com/Ambika-8144/leetcode/tree/master/0228-summary-ranges) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Ambika-8144/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Ambika-8144/leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Ambika-8144/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/Ambika-8144/leetcode/tree/master/0064-minimum-path-sum) |
 | [0463-island-perimeter](https://github.com/Ambika-8144/leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Ambika-8144/leetcode/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/Ambika-8144/leetcode/tree/master/1260-shift-2d-grid) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ambika-8144/leetcode/tree/master/0022-generate-parentheses) |
+| [0064-minimum-path-sum](https://github.com/Ambika-8144/leetcode/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/Ambika-8144/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/Ambika-8144/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Ambika-8144/leetcode/tree/master/0509-fibonacci-number) |
