@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ambika-8144/leetcode/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ambika-8144/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Ambika-8144/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ambika-8144/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0216-combination-sum-iii](https://github.com/Ambika-8144/leetcode/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/Ambika-8144/leetcode/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/Ambika-8144/leetcode/tree/master/0283-move-zeroes) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ambika-8144/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/Ambika-8144/leetcode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/Ambika-8144/leetcode/tree/master/0561-array-partition) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ambika-8144/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ambika-8144/leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Ambika-8144/leetcode/tree/master/0072-edit-distance) |
 | [0119-pascals-triangle-ii](https://github.com/Ambika-8144/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ambika-8144/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0486-predict-the-winner](https://github.com/Ambika-8144/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Ambika-8144/leetcode/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
