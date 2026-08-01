@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Ambika-8144/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Ambika-8144/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ambika-8144/leetcode/tree/master/0049-group-anagrams) |
+| [0059-spiral-matrix-ii](https://github.com/Ambika-8144/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ambika-8144/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Ambika-8144/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0228-summary-ranges](https://github.com/Ambika-8144/leetcode/tree/master/0228-summary-ranges) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Ambika-8144/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/Ambika-8144/leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Ambika-8144/leetcode/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/Ambika-8144/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Ambika-8144/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Ambika-8144/leetcode/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/Ambika-8144/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Ambika-8144/leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Ambika-8144/leetcode/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/Ambika-8144/leetcode/tree/master/1260-shift-2d-grid) |
