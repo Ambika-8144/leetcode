@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ambika-8144/leetcode/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ambika-8144/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Ambika-8144/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0216-combination-sum-iii](https://github.com/Ambika-8144/leetcode/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/Ambika-8144/leetcode/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/Ambika-8144/leetcode/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/Ambika-8144/leetcode/tree/master/0463-island-perimeter) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ambika-8144/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Ambika-8144/leetcode/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/Ambika-8144/leetcode/tree/master/0077-combinations) |
+| [0216-combination-sum-iii](https://github.com/Ambika-8144/leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Ambika-8144/leetcode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Ambika-8144/leetcode/tree/master/0401-binary-watch) |
 ## Bit Manipulation
