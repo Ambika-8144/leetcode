@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Ambika-8144/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0257-binary-tree-paths](https://github.com/Ambika-8144/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Ambika-8144/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Ambika-8144/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Ambika-8144/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Ambika-8144/leetcode/tree/master/0563-binary-tree-tilt) |
 ## Binary Search Tree
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ambika-8144/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Ambika-8144/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ambika-8144/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Ambika-8144/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Ambika-8144/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0257-binary-tree-paths](https://github.com/Ambika-8144/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Ambika-8144/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Ambika-8144/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0563-binary-tree-tilt](https://github.com/Ambika-8144/leetcode/tree/master/0563-binary-tree-tilt) |
 ## Depth-First Search
 |  |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Ambika-8144/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Ambika-8144/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Ambika-8144/leetcode/tree/master/0463-island-perimeter) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Ambika-8144/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Ambika-8144/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Ambika-8144/leetcode/tree/master/0563-binary-tree-tilt) |
 ## Linked List
