@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ambika-8144/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Ambika-8144/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Ambika-8144/leetcode/tree/master/0563-binary-tree-tilt) |
+| [3310-remove-methods-from-project](https://github.com/Ambika-8144/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Linked List
 |  |
 | ------- |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Ambika-8144/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Ambika-8144/leetcode/tree/master/0463-island-perimeter) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Ambika-8144/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [3310-remove-methods-from-project](https://github.com/Ambika-8144/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Memoization
 |  |
 | ------- |
@@ -307,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Ambika-8144/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Ambika-8144/leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
