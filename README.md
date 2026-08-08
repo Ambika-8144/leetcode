@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ambika-8144/leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Ambika-8144/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Ambika-8144/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Ambika-8144/leetcode/tree/master/0062-unique-paths) |
 | [0168-excel-sheet-column-title](https://github.com/Ambika-8144/leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Ambika-8144/leetcode/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Ambika-8144/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/Ambika-8144/leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Ambika-8144/leetcode/tree/master/0415-add-strings) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ambika-8144/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Ambika-8144/leetcode/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/Ambika-8144/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Ambika-8144/leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Ambika-8144/leetcode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Ambika-8144/leetcode/tree/master/0131-palindrome-partitioning) |
