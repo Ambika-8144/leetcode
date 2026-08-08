@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Ambika-8144/leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Ambika-8144/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ambika-8144/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0746-min-cost-climbing-stairs](https://github.com/Ambika-8144/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1260-shift-2d-grid](https://github.com/Ambika-8144/leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Ambika-8144/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ambika-8144/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Ambika-8144/leetcode/tree/master/0337-house-robber-iii) |
 | [0486-predict-the-winner](https://github.com/Ambika-8144/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Ambika-8144/leetcode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Ambika-8144/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
