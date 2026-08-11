@@ -11,4 +11,13 @@ class Solution:
                 max_len=max(max_len,l)
                 seen.add(s[j])
         return max_len
-        
+        #optimal sliding window + 2 pointer 
+        left=0
+        seen={}
+        max_len=0
+        for right in range(len(s)):
+            if seen[s[right]]==1 and seen[s[right]]>=left:
+                left=seen[right]+1
+            seen[s[right]]=right
+            max_len=max(max_len,right-left+1)
+        return max_len
