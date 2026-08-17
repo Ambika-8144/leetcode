@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Ambika-8144/leetcode/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/Ambika-8144/leetcode/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/Ambika-8144/leetcode/tree/master/0283-move-zeroes) |
+| [0312-burst-balloons](https://github.com/Ambika-8144/leetcode/tree/master/0312-burst-balloons) |
 | [0463-island-perimeter](https://github.com/Ambika-8144/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Ambika-8144/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Ambika-8144/leetcode/tree/master/0486-predict-the-winner) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Ambika-8144/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Ambika-8144/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ambika-8144/leetcode/tree/master/0213-house-robber-ii) |
+| [0312-burst-balloons](https://github.com/Ambika-8144/leetcode/tree/master/0312-burst-balloons) |
 | [0337-house-robber-iii](https://github.com/Ambika-8144/leetcode/tree/master/0337-house-robber-iii) |
 | [0486-predict-the-winner](https://github.com/Ambika-8144/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Ambika-8144/leetcode/tree/master/0509-fibonacci-number) |
