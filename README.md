@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Ambika-8144/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Ambika-8144/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ambika-8144/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Ambika-8144/leetcode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Ambika-8144/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Ambika-8144/leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Ambika-8144/leetcode/tree/master/0075-sort-colors) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Ambika-8144/leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Ambika-8144/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Ambika-8144/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Ambika-8144/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ambika-8144/leetcode/tree/master/0075-sort-colors) |
 | [0506-relative-ranks](https://github.com/Ambika-8144/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Ambika-8144/leetcode/tree/master/0561-array-partition) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Ambika-8144/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ambika-8144/leetcode/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
