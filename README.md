@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Ambika-8144/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Ambika-8144/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Ambika-8144/leetcode/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/Ambika-8144/leetcode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/Ambika-8144/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ambika-8144/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/Ambika-8144/leetcode/tree/master/0258-add-digits) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Ambika-8144/leetcode/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Ambika-8144/leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Ambika-8144/leetcode/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/Ambika-8144/leetcode/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/Ambika-8144/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Ambika-8144/leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Ambika-8144/leetcode/tree/master/0257-binary-tree-paths) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ambika-8144/leetcode/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/Ambika-8144/leetcode/tree/master/0089-gray-code) |
 | [0342-power-of-four](https://github.com/Ambika-8144/leetcode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/Ambika-8144/leetcode/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ambika-8144/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
