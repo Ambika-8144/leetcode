@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ambika-8144/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ambika-8144/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Ambika-8144/leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Ambika-8144/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ambika-8144/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ambika-8144/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Ambika-8144/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ambika-8144/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ambika-8144/leetcode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Ambika-8144/leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Ambika-8144/leetcode/tree/master/0148-sort-list) |
 | [0506-relative-ranks](https://github.com/Ambika-8144/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Ambika-8144/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ambika-8144/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ambika-8144/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ambika-8144/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Ambika-8144/leetcode/tree/master/0148-sort-list) |
 ## Tree
 |  |
 | ------- |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Ambika-8144/leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Ambika-8144/leetcode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Ambika-8144/leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Ambika-8144/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ambika-8144/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Ambika-8144/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Ambika-8144/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -548,4 +552,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Ambika-8144/leetcode/tree/master/0139-word-break) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Ambika-8144/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
