@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Ambika-8144/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Ambika-8144/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Ambika-8144/leetcode/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/Ambika-8144/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Ambika-8144/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Ambika-8144/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ambika-8144/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Ambika-8144/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Ambika-8144/leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ambika-8144/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Ambika-8144/leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Ambika-8144/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ambika-8144/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Ambika-8144/leetcode/tree/master/0146-lru-cache) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Ambika-8144/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Ambika-8144/leetcode/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/Ambika-8144/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Ambika-8144/leetcode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/Ambika-8144/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ambika-8144/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/Ambika-8144/leetcode/tree/master/0257-binary-tree-paths) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Ambika-8144/leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ambika-8144/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ambika-8144/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Ambika-8144/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Ambika-8144/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ambika-8144/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ambika-8144/leetcode/tree/master/0213-house-robber-ii) |
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Ambika-8144/leetcode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Ambika-8144/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Ambika-8144/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Design
@@ -535,4 +540,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Ambika-8144/leetcode/tree/master/0146-lru-cache) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ambika-8144/leetcode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ambika-8144/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
