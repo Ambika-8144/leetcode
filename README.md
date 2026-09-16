@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Ambika-8144/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ambika-8144/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/Ambika-8144/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ambika-8144/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ambika-8144/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ambika-8144/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ambika-8144/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Ambika-8144/leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ambika-8144/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Ambika-8144/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ambika-8144/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ambika-8144/leetcode/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ambika-8144/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## DP on Trees
 |  |
 | ------- |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ambika-8144/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ambika-8144/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ambika-8144/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Algorithm X
 |  |
 | ------- |
