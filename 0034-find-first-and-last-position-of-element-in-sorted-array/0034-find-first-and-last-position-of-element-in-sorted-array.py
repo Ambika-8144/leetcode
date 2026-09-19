@@ -1,0 +1,29 @@
+class Solution:
+    def searchRange(self, nums, target):
+
+        def binary_search(find_first):
+            left, right = 0, len(nums) - 1
+            ans = -1
+
+            while left <= right:
+                mid = (left + right) // 2
+
+                if nums[mid] == target:
+                    ans = mid
+
+                    if find_first:
+                        right = mid - 1
+                    else:
+                        left = mid + 1
+
+                elif nums[mid] < target:
+                    left = mid + 1
+                else:
+                    right = mid - 1
+
+            return ans
+
+        return [
+            binary_search(True),
+            binary_search(False)
+        ]
