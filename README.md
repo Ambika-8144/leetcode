@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Ambika-8144/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Ambika-8144/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ambika-8144/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0187-repeated-dna-sequences](https://github.com/Ambika-8144/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ambika-8144/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/Ambika-8144/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Ambika-8144/leetcode/tree/master/0409-longest-palindrome) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Ambika-8144/leetcode/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Ambika-8144/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ambika-8144/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0187-repeated-dna-sequences](https://github.com/Ambika-8144/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ambika-8144/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/Ambika-8144/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Ambika-8144/leetcode/tree/master/0344-reverse-string) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Ambika-8144/leetcode/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/Ambika-8144/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Ambika-8144/leetcode/tree/master/0090-subsets-ii) |
+| [0187-repeated-dna-sequences](https://github.com/Ambika-8144/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0342-power-of-four](https://github.com/Ambika-8144/leetcode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/Ambika-8144/leetcode/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ambika-8144/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -568,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ambika-8144/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Ambika-8144/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ambika-8144/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ambika-8144/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ambika-8144/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -621,4 +625,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ambika-8144/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ambika-8144/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ambika-8144/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ambika-8144/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ambika-8144/leetcode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
