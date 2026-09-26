@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Ambika-8144/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Ambika-8144/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ambika-8144/leetcode/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/Ambika-8144/leetcode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Ambika-8144/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ambika-8144/leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Ambika-8144/leetcode/tree/master/0079-word-search) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Ambika-8144/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Ambika-8144/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ambika-8144/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/Ambika-8144/leetcode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/Ambika-8144/leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Ambika-8144/leetcode/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/Ambika-8144/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ambika-8144/leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Ambika-8144/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Ambika-8144/leetcode/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/Ambika-8144/leetcode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Ambika-8144/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Ambika-8144/leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Ambika-8144/leetcode/tree/master/0093-restore-ip-addresses) |
