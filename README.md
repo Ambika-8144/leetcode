@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Ambika-8144/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ambika-8144/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Ambika-8144/leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Ambika-8144/leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Ambika-8144/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Ambika-8144/leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ambika-8144/leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ambika-8144/leetcode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Ambika-8144/leetcode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Ambika-8144/leetcode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Ambika-8144/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Ambika-8144/leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Ambika-8144/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Ambika-8144/leetcode/tree/master/0097-interleaving-string) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ambika-8144/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Ambika-8144/leetcode/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Ambika-8144/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ambika-8144/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ambika-8144/leetcode/tree/master/1004-max-consecutive-ones-iii) |
