@@ -5,8 +5,16 @@ class Solution:
         for i in range(left + 1, right + 1):
             a = a & i
 
-        return a'''
+        return a
         while right > left:
             right = right & (right - 1)
 
-        return right
+        return right'''
+        s = 0
+
+        while left != right:
+            left >>= 1
+            right >>= 1
+            s += 1
+
+        return left << s
