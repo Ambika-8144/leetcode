@@ -1,5 +1,5 @@
 
-'''class Solution:
+class Solution:
     def minInsertions(self, s: str) -> int:
         ans = 0
         open_count = 0
@@ -25,9 +25,9 @@
                     i += 1
         ans += open_count * 2
 
-        return ans'''
+        return ans
 
-class Solution:
+'''class Solution:
     def minInsertions(self, s: str) -> int:
         ans = 0
         open_count = 0
@@ -53,5 +53,4 @@ class Solution:
                     i += 1
 
         ans += open_count * 2
-        return ans
-
+        return ans'''
