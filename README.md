@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ambika-8144/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ambika-8144/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ambika-8144/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Ambika-8144/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ambika-8144/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ambika-8144/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Ambika-8144/leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Ambika-8144/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ambika-8144/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ambika-8144/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Ambika-8144/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ambika-8144/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ambika-8144/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ambika-8144/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ambika-8144/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ambika-8144/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ambika-8144/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Ambika-8144/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ambika-8144/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
 |  |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ambika-8144/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ambika-8144/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ambika-8144/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Ambika-8144/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Tree
 |  |
 | ------- |
@@ -566,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/Ambika-8144/leetcode/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ambika-8144/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Ambika-8144/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Brainteaser
 |  |
 | ------- |
