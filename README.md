@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ambika-8144/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Ambika-8144/leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Ambika-8144/leetcode/tree/master/0216-combination-sum-iii) |
+| [0218-the-skyline-problem](https://github.com/Ambika-8144/leetcode/tree/master/0218-the-skyline-problem) |
 | [0221-maximal-square](https://github.com/Ambika-8144/leetcode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Ambika-8144/leetcode/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/Ambika-8144/leetcode/tree/master/0283-move-zeroes) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ambika-8144/leetcode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Ambika-8144/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Ambika-8144/leetcode/tree/master/0148-sort-list) |
+| [0218-the-skyline-problem](https://github.com/Ambika-8144/leetcode/tree/master/0218-the-skyline-problem) |
 | [0506-relative-ranks](https://github.com/Ambika-8144/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Ambika-8144/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ambika-8144/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ambika-8144/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ambika-8144/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Ambika-8144/leetcode/tree/master/0148-sort-list) |
+| [0218-the-skyline-problem](https://github.com/Ambika-8144/leetcode/tree/master/0218-the-skyline-problem) |
 ## Tree
 |  |
 | ------- |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Ambika-8144/leetcode/tree/master/0218-the-skyline-problem) |
 | [0506-relative-ranks](https://github.com/Ambika-8144/leetcode/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ambika-8144/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ambika-8144/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -761,4 +765,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Ambika-8144/leetcode/tree/master/0127-word-ladder) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Ambika-8144/leetcode/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Ambika-8144/leetcode/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Ambika-8144/leetcode/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Ambika-8144/leetcode/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
